@@ -22,7 +22,7 @@ Do <a href="https://www.rocketseat.com.br/explorer" target="_blank">Explorer</a>
 
 
 
- https://github.com/RodrigoApOliveira/focus-time-v1/blame/main/assets/focustimer.mp4
+https://github.com/RodrigoApOliveira/focus-time-v1/blob/482858c33c2b5d480cc5ed6e038b70ca4d6dc7e3/assets/focustimer.mp4
 
 
 
